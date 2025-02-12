@@ -3,8 +3,7 @@
 ## 📌 À propos de moi
 
 Je suis **Yannick Quérin**, Data Scientist passionné par l'analyse de données, le Machine Learning et l'optimisation des modèles prédictifs. Fort d'une expérience en alternance chez Carrefour et d'une solide formation en Data Science, je suis toujours à la recherche de nouveaux défis et d'opportunités pour appliquer mes compétences en Python, SQL, Spark et TensorFlow.
-
-📍 Basé à **Palaiseau (91)**  
+ 
 📧 Contactez-moi : [yannickquerin@gmail.com](mailto:yannickquerin@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/yannick-qu%C3%A9rin/) | [GitHub](https://github.com/YannickQuerin)
 
