@@ -23,7 +23,7 @@ Je suis **Yannick Quérin**, Data Scientist passionné par l'analyse de données
 ## 📂 Projets Principaux
 
 ### 🔹 [Déploiement d'un modèle dans le Cloud](https://github.com/YannickQuerin/OC-DS-P8-Deployez_un_modele_dans_le_cloud)
-📌 Déploiement d'un modèle de Machine Learning sur le cloud en utilisant **AWS/Azure**.
+📌 Déploiement d'un modèle de Machine Learning sur le cloud en utilisant **AWS**.
 
 ### 🔹 [Modèle de scoring et Dashboard](https://github.com/YannickQuerin/OC-DS-P7-Implementez_modele_scoring_dashboard)
 📌 Implémentation d'un modèle de scoring avec **interprétabilité** et création d'un **dashboard interactif**.
@@ -35,7 +35,7 @@ Je suis **Yannick Quérin**, Data Scientist passionné par l'analyse de données
 📌 Analyse et segmentation des clients d'un site e-commerce pour améliorer la **stratégie marketing**.
 
 ### 🔹 [Prédiction de la consommation énergétique](https://github.com/YannickQuerin/OC-DS-P4-Anticipez_besoins_consommation_electriques_batiments)
-📌 Prévision des besoins en consommation électrique à l’aide de modèles **temps-série**.
+📌 Prévision des besoins en consommation électrique à l’aide de modèles **timeseries**.
 
 ---
 
