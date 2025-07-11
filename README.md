@@ -13,7 +13,7 @@ Je suis **Yannick Quérin**, Data Scientist passionné par l'analyse de données
 
 ## 🚀 Compétences
 
-- **Langages & Outils** : Python, R, SQL, PySpark, TensorFlow, Scikit-learn, Pandas, Matplotlib, GCP, Git/GitLab
+- **Langages & Outils** : Python, R, SQL, PySpark, LangChain, TensorFlow, Scikit-learn, Pandas, Matplotlib, GCP, Git/GitLab
 - **Modélisation & Machine Learning** : Apprentissage supervisé et non supervisé, Deep Learning, NLP, Computer Vision
 - **Big Data & Cloud** : Google Cloud Platform
 - **Data Visualisation** : Google Data Studio, Matplotlib, Seaborn, Plotly
@@ -44,6 +44,13 @@ Je suis **Yannick Quérin**, Data Scientist passionné par l'analyse de données
 📌 Prévision des besoins en consommation électrique.
 
 ---
+
+## 📂 Projets Personnels
+
+### 🔹 [DocuSmart - Analyse IA de Documents](https://github.com/YannickQuerin/DocuSmart---LLM_docu_assistant)
+![DocuSmart](assets/docusmart-preview.png)
+📌 Application d'analyse intelligente de documents utilisant l'IA pour extraire, résumer, analyser et traduire le contenu de fichiers PDF, DOCX et TXT avec **LangChain**, **OpenAI GPT** et **Streamlit**.
+
 
 ## 📬 Me Contacter
 
