@@ -17,7 +17,7 @@ Je suis **Yannick Quérin**, Data Scientist passionné par l'analyse de données
 - **Modélisation & Machine Learning** : Apprentissage supervisé et non supervisé, Deep Learning, NLP, Computer Vision
 - **Big Data & Cloud** : Google Cloud Platform
 - **Data Visualisation** : Google Data Studio, Matplotlib, Seaborn, Plotly
-- **Déploiement** : API FastAPI, Flask, Streamlit
+- **Déploiement** : API FastAPI, Flask, Streamlit, OpenAI API
 
 ---
 
