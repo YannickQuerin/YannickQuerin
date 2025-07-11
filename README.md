@@ -48,7 +48,7 @@ Je suis **Yannick Quérin**, Data Scientist passionné par l'analyse de données
 ## 📂 Projets Personnels
 
 ### 🔹 [DocuSmart - Analyse IA de Documents](https://github.com/YannickQuerin/DocuSmart---LLM_docu_assistant)
-![DocuSmart](assets/docusmart-preview.png)
+![DocuSmart](assets/exemple_illustration_docusmart.png)
 📌 Application d'analyse intelligente de documents utilisant l'IA pour extraire, résumer, analyser et traduire le contenu de fichiers PDF, DOCX et TXT avec **LangChain**, **OpenAI GPT** et **Streamlit**.
 
 
