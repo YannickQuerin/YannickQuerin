@@ -1,5 +1,12 @@
 # 👋 Bienvenue sur mon Portfolio GitHub
 
+## 🌐 Portfolio
+
+🎯 Découvrez mes projets, démonstrations et expériences IA sur mon portfolio en ligne :
+
+[![Accéder au Portfolio](https://img.shields.io/badge/Portfolio-en%20ligne-blue?logo=vercel&style=for-the-badge)](https://yannick-ai.vercel.app/)
+
+
 ![Portfolio Banner](Illustration_images/big-data-banniere-coloree_115973-11.jpg)
 
 ## 📌 À propos de moi
