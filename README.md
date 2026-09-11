@@ -55,6 +55,9 @@ Ici, tu trouveras des projets en Data Science, Machine Learning et d'IA réalis�
 ### 🔹 [DocuSmart - Analyse IA de Documents](https://github.com/YannickQuerin/DocuSmart---LLM_docu_assistant)
 📌 Application d'analyse intelligente de documents utilisant l'IA pour extraire, résumer, analyser et traduire le contenu de fichiers PDF, DOCX et TXT avec **LangChain**, **OpenAI GPT** et **Streamlit**.
 
+### 🔹 [SmartAgent - Agent LLM Multitache](https://github.com/YannickQuerin/SmartAgent-LLM-Multitask)
+📌 Agent LLM autonome multitâche avec LangGraph, outils dynamiques, mémoire persistante, intégrations web, agenda, email et interface Streamlit.
+
 
 ## 📬 Me Contacter
 
